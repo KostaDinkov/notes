@@ -1,0 +1,5 @@
+site_name: Build a Modern Computer From First Principles
+theme: readthedocs
+  
+markdown_extensions:
+  - admonition
