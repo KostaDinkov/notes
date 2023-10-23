@@ -1,3 +1,3 @@
-# jupyter-notebooks
+# Notes
 
-### My personal collection of jupyter-notebooks on various subjects
+## My personal collection of notes on various subjects
