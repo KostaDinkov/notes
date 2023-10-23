@@ -1,6 +1,7 @@
 # UI / UX design notes
 
 ## Usability quality components (Neilsen)
+---
 
 * Learnability
 * Efficiency
@@ -9,6 +10,7 @@
 * Satisfaction
 
 ## Artifacts
+---
 
 * User personas
     * model or character that portrays a possible user of your website or app
@@ -31,6 +33,7 @@
 
 
 ## Evaluating Design
+--- 
 
 ### The 10 Principles Of Good Design by Dieter Rams
 
@@ -73,4 +76,13 @@
 
 ### Eight golden rules of interface design by Ben Schneidermann
 
-
+1. Strive for consistency
+2. Enable frequent users to use shortcuts
+3. Offer informative feedback
+4. Design dialog to yield closure
+    * once task is complete, give users feedback and well defined choices for next step
+    * don't make users guessing
+5. Offer simple error handling
+6. Permit easy reversal of actions
+7. Support internal locus of control
+8. Reduce short term memory load
