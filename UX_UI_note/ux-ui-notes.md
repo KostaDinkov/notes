@@ -86,3 +86,15 @@
 6. Permit easy reversal of actions
 7. Support internal locus of control
 8. Reduce short term memory load
+
+```mermaid
+---
+title: Order example
+---
+
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+
+```
